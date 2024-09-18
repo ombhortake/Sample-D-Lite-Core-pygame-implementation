@@ -14,3 +14,5 @@ Notes
 
     This implementation dynamically adjusts the grid as you interact with it, demonstrating a simple version of D* Lite's capabilities.
     You can refine it further by implementing features like cost updates for dynamic environments, which can enhance efficiency during pathfinding.
+ps:
+    this is not actual d*lite. need to update it to make use of d*lite. currently using a*
